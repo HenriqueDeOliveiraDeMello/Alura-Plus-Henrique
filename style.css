@@ -143,3 +143,20 @@ body{
   text-align: center;
   margin: 5em 3em;
 }
+
+.lista__link a:hover{
+  color: darkseagreen;
+}
+
+.lista__link a:active{
+  color: aquamarine;
+}
+
+.container__botao:hover{
+  color: black;
+  background-color: aqua;
+}
+
+.container__botao:active{
+  background-color: darkseagreen;
+}
